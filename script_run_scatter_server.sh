@@ -1,1 +1,1 @@
-http-server . -p 1339
+http-server ./build -p 1339
